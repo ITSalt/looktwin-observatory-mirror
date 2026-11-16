@@ -1,0 +1,14 @@
+# LOO-44 observatory: fixed sites, agents and paths. Any edit = new sha12, posted on the board before use.
+agents: GPTBot OAI-SearchBot ClaudeBot PerplexityBot Google-Extended YandexBot
+paths: / /search /catalog/ /product/ /checkout
+site: www.amazon.com
+site: www.ozon.ru
+site: www.wildberries.ru
+site: www.booking.com
+site: www.expedia.com
+site: www.aeroflot.ru
+site: www.s7.ru
+site: www.tutu.ru
+site: ria.ru
+site: www.rbc.ru
+site: www.kommersant.ru
